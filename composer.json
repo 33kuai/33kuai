@@ -20,6 +20,6 @@
         "vlucas/phpdotenv": "^2.4",
         "2amigos/yii2-ckeditor-widget": "^1.0@dev",
         "conquer/codemirror": "*",
-        "mootensai/yii2-enhanced-gii": "dev-master",
+        "mootensai/yii2-enhanced-gii": "dev-master"
     }
 }
