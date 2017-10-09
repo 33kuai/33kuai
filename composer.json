@@ -20,6 +20,7 @@
         "kartik-v/yii2-tree-manager": "dev-master",
         "kartik-v/yii2-datecontrol": "dev-master",
         "kartik-v/yii2-field-range": "*",
+        "kartik-v/yii2-builder": "@dev",
         "trntv/yii2-glide": "*",
         "kucha/ueditor": "*",
         "e282486518/yii2-console-migration": "*",
