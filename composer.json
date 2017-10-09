@@ -15,6 +15,7 @@
         "kartik-v/yii2-password": "@dev",
         "kartik-v/yii2-icons": "@dev",
         "kartik-v/yii2-label-inplace": "*",
+        "kartik-v/yii2-dialog": "@dev"
         "kartik-v/yii2-mpdf": "dev-master",
         "kartik-v/yii2-tree-manager": "dev-master",
         "kartik-v/yii2-datecontrol": "dev-master",
